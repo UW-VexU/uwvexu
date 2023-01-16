@@ -11,6 +11,11 @@ export const competitions = [
 
 export const awards = [
   {
+    comp: 'World Championship VEX U',
+    award: ['Worlds Build Award'],
+    year: 2022,
+  },
+  {
     comp: 'Purdue SIGBots Skills Qualifier',
     award: ['Excellence Award', 'Robot Skills Champion'],
     year: 2021,
